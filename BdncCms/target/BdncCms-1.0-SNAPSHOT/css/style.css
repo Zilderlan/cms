@@ -1,0 +1,98 @@
+.inicio {border: 1px solid #f5f5f5; color: #fff;}
+.comecar {background: green; color: #fff; }
+
+.img-container img{width: 120%;float: left; margin: -2% -4.5% 0% -10.5%}
+.img-responsive {border-radius: 100%; background: #000}
+
+
+header .navbar1 {background: #000; border: none; padding: 1% 1.5% 1% 1%;}
+.container .login{
+    float: left;
+    width: 40%;
+    margin: 8% 30% 14.7% 30%;
+    padding: 2%;
+    border: 1.5px solid #f3f3f3;
+
+}
+
+
+
+.container .cadastro{
+    float: left;
+    width: 40%;
+    margin: 4% 30% 7% 30%;
+    padding: 2%;
+    border: 1.5px solid #f3f3f3;
+    display: none;
+}
+
+.container .login a{
+    text-decoration: none;
+    float: right;
+    color: blue;
+}
+.container .cadastro a{
+    text-decoration: none;
+    float: right;
+    color: blue;
+}            
+.container input{
+    width: 100%;
+    margin: 4% 0%;
+}
+
+footer {
+
+}
+
+.menu-left{
+    float: left; 
+    width: 20%;
+    border: 1px solid #f3f3f3; 
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0 0 2% 0%;
+}
+.content-center{
+    float: left;
+    border: 1px solid #f3f3f3;
+    width: 58%;
+    border-radius: 10px;
+    margin: 0 1% 2% 1%;
+}
+.content-center form{
+    float: right;
+    width: 90%; 
+    margin: 2% 4%;
+
+}
+
+.content-right{
+    width: 20%;
+    float: right;
+    border: 1px solid #f3f3f3;
+    border-radius: 10px;
+}               
+
+.content-center .form-control{
+    float: left;
+    width: 100%;
+
+}
+
+.content-center .form-group .form-control{margin: 0% 0 2% 0;}
+textarea{
+    height: 600px;
+}
+.content-center .btn{
+    width: 100%;
+}
+
+.form-right {margin-bottom: 3%;}
+
+.form-right .form-group {margin: 5%;}
+
+.form-right .btn{}
+
+.form-right .form-group .form-control {margin-bottom: 5%;}
+
